@@ -152,7 +152,7 @@ print(f"Welcome {name} to Python Programming!")
 ```
 Enter your name: Jayatri
 
-Welcome Subham to Python Programming!
+Welcome Jayatri to Python Programming!
 ```
 
 ---
