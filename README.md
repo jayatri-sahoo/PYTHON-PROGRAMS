@@ -30,47 +30,11 @@ Whether you're a student, job seeker, or programming enthusiast, this repository
 
 # 🚀 What You'll Learn
 
-✅ Python Fundamentals
-
-✅ Variables & Data Types
-
-✅ Operators
-
-✅ Conditional Statements
-
-✅ Loops
-
-✅ Functions
-
-✅ Lambda Functions
-
-✅ Recursion
-
-✅ Strings
-
-✅ Lists
-
-✅ Tuples
-
-✅ Sets
-
-✅ Dictionaries
-
-✅ Object-Oriented Programming
-
-✅ File Handling
-
-✅ Exception Handling
-
-✅ Modules & Packages
-
-✅ Built-in Libraries
-
-✅ Coding Challenges
-
-✅ Interview Programs
-
-✅ Mini Projects
+✅ Python Fundamentals ✅ Variables & Data Types ✅ Operators ✅ Conditional Statements ✅ Loops
+✅ Functions           ✅ Lambda Functions       ✅ Recursion ✅ Strings                ✅ Lists
+✅ Tuples              ✅ Dictionaries           ✅ Sets      ✅ File Handling          ✅ Object-Oriented Programming
+✅ Exception Handling   ✅ Modules & Packages    ✅ Built-in Libraries                  ✅ Coding Challenges
+✅ Interview Programs   ✅ Mini Projects
 
 ---
 
