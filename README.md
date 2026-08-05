@@ -162,7 +162,7 @@ Welcome Subham to Python Programming!
 ### Clone Repository
 
 ```bash
-git clone https://github.com/jayatri-sahoo/Python.git
+git clone https://github.com/jayatri-sahoo/PYTHON-PROGRAMS.git
 ```
 
 ### Move to Folder
@@ -249,7 +249,7 @@ If you like this repository,
 
 <p align="center">
 
-<a href="https://github.com/SUBHAM149">
+<a href="https://github.com/jayatri-sahoo/PYTHON-PROGRAMS.git">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
